@@ -1,0 +1,16 @@
+{
+  "name": "accessibility-automation-cypress-axe",
+  "version": "1.0.0",
+  "description": "This is a cypress javascript project integrated with axe library for accessibility automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chathuranga Jayasinghe",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^4.4.3",
+    "cypress": "^10.4.0",
+    "cypress-axe": "^1.0.0"
+  }
+}
