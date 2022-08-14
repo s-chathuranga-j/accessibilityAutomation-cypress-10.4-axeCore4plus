@@ -13,6 +13,6 @@ With AXE 4.0 onwards, the whole library changed and it become more easier to do 
 3. Run 'npx cypress open' to open the Cypress GUI
 4. Click the test you want to run
 
-A descriptive explanation about the code-base can be found on Medium.com: https://schathurangaj.medium.com/accessibility-testing-vs-cypress-7c544b7bea88
+A descriptive explanation about the code-base can be found on Medium.com: https://schathurangaj.medium.com/accessibility-test-automation-with-axe-4-cypress-8994b358e730
 
 ## Feel free to Clone, Try-out & Optimize the code-base as your wish!
